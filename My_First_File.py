@@ -1,1 +1,3 @@
-Print('My_First_Text')
+print('My_First_Text')
+
+print('new')
